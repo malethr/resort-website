@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #333;
+    background-color: #577ae4;
     overflow: hidden;
 }
 
@@ -35,7 +35,7 @@ p {
 }
 
 body {
-  background-color: white;
+  background-color: gray;
   font-family: sans-serif;
   text-align: center;
 }
