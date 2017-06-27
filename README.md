@@ -18,7 +18,7 @@ _Proposed Designs will be hosted on GitHub until finalized.  Once a decision is 
 
 ## Support and contact details
 
-_Bart Webber  bart@aseenrichment.company
+_Bart Webber  bart@aseenrichment.com
  Maria Thomas  malethr@gmail.com_
 
 ## Technologies Used
